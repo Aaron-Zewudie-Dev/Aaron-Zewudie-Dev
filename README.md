@@ -1,8 +1,8 @@
 ## Hi, I'm Aaron Zewudie 👋
 
-I build mobile apps end-to-end, from idea to production.
+# I build mobile apps end-to-end, from idea to production.
 
-Startup experience · 5 apps shipped on Google Play · 2 personal projects
+# Startup experience · 5 apps shipped on Google Play · 2 personal projects
 
 ## Stack: 
 
