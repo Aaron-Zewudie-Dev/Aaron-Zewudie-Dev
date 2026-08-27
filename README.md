@@ -1,6 +1,6 @@
 Hi, I'm Aaron Zewudie 👋
 
-Mobile Developer | Android • Kotlin • React Native . NativePHP experience
+Mobile Developer | Android • Kotlin • Jetpack Compose . React Native . NativePHP experience
 
 I build mobile apps from scratch, from idea to production and Google Play release.
 
