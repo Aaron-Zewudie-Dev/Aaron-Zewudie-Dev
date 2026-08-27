@@ -4,9 +4,7 @@ I build mobile apps end-to-end, from idea to production.
 
 Startup experience · 5 apps shipped on Google Play · 2 personal projects
 
-## Stack: 
-
-Kotlin · Android · Jetpack Compose · MVVM . React Native · NativePHP · Git · REST APIs
+Stack: Kotlin · Android · Jetpack Compose · MVVM . React Native · NativePHP · Git · REST APIs
 
 ## personal apps live on Google Play View my apps →
 
