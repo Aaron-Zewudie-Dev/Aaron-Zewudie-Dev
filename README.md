@@ -1,9 +1,9 @@
 ## Hi, I'm Aaron Zewudie 👋
 Mobile developer building products end-to-end, from idea to production · Startup experience · 5 apps shipped on Google Play · 2 personal projects
 Kotlin · Android · Jetpack Compose · MVVM · React Native · NativePHP · Git · REST APIs
-## personal apps live on Google Play View my apps →
+## Personal Apps · View on Google Play →
 Noviq: https://play.google.com/store/apps/details?id=com.aaron.noviq&hl=en_US 
 
 TenaFit: https://play.google.com/store/apps/details?id=com.aaron.tenafit&hl=en_US
-## Connect
-https://www.linkedin.com/in/aaron-zewudie/
+
+Connect: https://www.linkedin.com/in/aaron-zewudie/
