@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Aaron Zewudie 👋
+Mobile Developer | Android • Kotlin • React Native
+I build mobile apps from scratch, from idea to production and Google Play release.
 
-<!--
-**Aaron-Zewudie-Dev/Aaron-Zewudie-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 Built 5 apps from scratch
+🚀 Released 2 personal apps on Google Play
+🤖 Android • Kotlin • Jetpack Compose
+⚛️ React Native & cross-platform development
+🏗️ Early-stage startup experience
+🌐 NativePHP experience
+🛠️ Tech Stack
+Kotlin Android Jetpack Compose React Native NativePHP Git REST APIs
 
-Here are some ideas to get you started:
+📱 Projects
+2 personal apps live on Google Play View my apps →
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://play.google.com/store/apps/details?id=com.aaron.tenafit&hl=en_US.
+
+https://play.google.com/store/apps/details?id=com.aaron.noviq&hl=en_US ·
+
+🤝 Connect
+Linkedin: https://www.linkedin.com/in/aaron-zewudie/.
+
+Email: A.zewudie19@gmail.com
