@@ -18,4 +18,3 @@ Connect
 
 Linkedin: https://www.linkedin.com/in/aaron-zewudie/.
 
-Email: A.zewudie19@gmail.com
