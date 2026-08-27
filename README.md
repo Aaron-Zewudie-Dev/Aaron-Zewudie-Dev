@@ -5,6 +5,7 @@ Mobile Developer | Android • Kotlin • Jetpack Compose . React Native . Nativ
 I build mobile apps from scratch, from idea to production and Google Play release.
 
 Tech Stack
+
 Kotlin Android Jetpack Compose React Native NativePHP Git REST APIs
 
 Projects
