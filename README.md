@@ -1,8 +1,6 @@
 ## Hi, I'm Aaron Zewudie 👋
 
-I build mobile apps end-to-end, from idea to production.
-
-Startup experience · 5 apps shipped on Google Play · 2 personal projects
+I build mobile apps end-to-end, from idea to production. Startup experience · 5 apps shipped on Google Play · 2 personal projects
 
 Stack: Kotlin · Android · Jetpack Compose · MVVM . React Native · NativePHP · Git · REST APIs
 
