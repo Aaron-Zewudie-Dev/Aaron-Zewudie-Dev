@@ -6,7 +6,7 @@ I build mobile apps from idea to production.
 
 ## Stack
 
-Kotlin · Android · Jetpack Compose · React Native · NativePHP · Git · REST APIs.
+Kotlin · Android · Jetpack Compose · MVVM . React Native · NativePHP · Git · REST APIs.
 
 ## Projects
 
