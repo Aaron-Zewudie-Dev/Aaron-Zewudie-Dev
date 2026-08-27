@@ -15,4 +15,4 @@ TenaFit: https://play.google.com/store/apps/details?id=com.aaron.tenafit&hl=en_U
 ## Connect
 https://www.linkedin.com/in/aaron-zewudie/
 
-
+### Building, shipping, and learning every day.
